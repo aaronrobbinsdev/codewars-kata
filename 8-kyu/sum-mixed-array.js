@@ -10,4 +10,5 @@ function sumMix(x){
       sum += arr[i]
     }
     return sum;
-  }
+  } 
+  

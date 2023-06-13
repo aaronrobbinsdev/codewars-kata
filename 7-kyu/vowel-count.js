@@ -13,4 +13,5 @@ function getCount(str) {
          str[i] === 'u')
         count += 1;
     } return count
-  }
+  } 
+  
